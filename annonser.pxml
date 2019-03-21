@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2019-03-20 13:30:30" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2019-03-21 13:59:05" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -68437,7 +68437,7 @@ på tork och förvara sedan i tättslutande burk.&lt;/span&gt;&lt;/span&gt;&lt;/
     </latestreservedid>
   </auction>
   <auction>
-    <title>Lök, Purjo- Sommar Purjolök</title>
+    <title>Lök, Purjo- Sommar Purjolök 15 Frön</title>
     <privateref>Lök, Purjo- Sommar</privateref>
     <attributes>1</attributes>
     <category>340975</category>
@@ -71484,6 +71484,67 @@ vintern&lt;/span&gt;&lt;/p&gt;</description>
     <images>
       <image id="1" sequencenr="1" imagename="Rödbeta Boltardy.jpg" path="D:\Mina Dokument\kuriosan\Blommor\Rödbeta Boltardy.jpg" relativepath="Rödbeta Boltardy.jpg" />
     </images>
+    <shipping condition="">
+      <option id="1" cost="15" />
+    </shipping>
+    <paymentflags condition="">4164</paymentflags>
+    <acceptedbidder>2</acceptedbidder>
+    <itemtype>0</itemtype>
+    <latestuploaddate>
+    </latestuploaddate>
+    <latestreservedid>
+    </latestreservedid>
+  </auction>
+  <auction>
+    <title>Tomat Minibel Cherrytomat  5 Frön</title>
+    <privateref>Tomat Minibel Cherrytomat</privateref>
+    <attributes>1</attributes>
+    <category>160501</category>
+    <duration>14</duration>
+    <specificenddate>
+    </specificenddate>
+    <restart>0</restart>
+    <startprice>15</startprice>
+    <reserveprice>
+    </reserveprice>
+    <buyitnowprice>20</buyitnowprice>
+    <description>&lt;p style="LINE-HEIGHT: normal; MARGIN: 0cm 0cm 12pt" class=
+"MsoNormal"&gt;&lt;span&gt;&lt;font size="3"&gt;&lt;strong&gt;5 frön av Tomat
+Minibel.&lt;br /&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: SV"&gt;Tomat
+Minibel,&amp;nbsp;Lycopersicon lycopersicum,&amp;nbsp;&lt;span style=
+"mso-spacerun: yes"&gt;som får munsbitsstora cherrytomater med en
+oemotståndlig söt smak. Tomat minibel är en kompakt planta som bara
+blir ca 30 cm hög och passar därför bra på balkong, i kruka och
+ampel.&lt;br /&gt;
+Den behöver inte stödjas och inte heller tjyvas. De små välsmakande
+tomaterna hänger som ett pärlband utanför krukans kant. Den
+g&lt;/span&gt;er rika skördar under hela säsongen.&amp;nbsp;Delikata att äta
+färska eller använda till sallad.&lt;br /&gt;&lt;/span&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: SV"&gt;&lt;br /&gt;
+
+Maila gärna vid frågor.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Odlingsråd:&lt;/strong&gt;&lt;br /&gt;
+Såtid: förodla i mars-april.&lt;br /&gt;
+Sådjup: 0,3 cm.&lt;span style="COLOR: black"&gt;&lt;br /&gt;
+Plantavstånd: 45 cm.&lt;br /&gt;
+Radavstånd: 45 cm.&lt;br /&gt;
+Höjd: 30 cm.&lt;br /&gt;
+Skörd:&amp;nbsp;augusti, september och oktober.&lt;br /&gt;
+Livslängd: Ettårig.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="LINE-HEIGHT: normal; MARGIN: 0cm 0cm 12pt" class=
+"MsoNormal"&gt;&lt;font size="3"&gt;&lt;span&gt;&lt;font size=
+"4"&gt;&lt;strong&gt;Förodla:&lt;/strong&gt;&lt;/font&gt; så inomhus i mars-april i
+såjord 0,3 cm djupt. Vattna väl och placera i ett rum med en
+temperatur som håller sig runt 15°-20°C. Håll jorden fuktig. Gror
+efter 7-14 dagar. Efter&amp;nbsp;plantorna grott&amp;nbsp;ställ i +15°C.
+Plantera om i större krukor när de är 10 cm höga. Håll i bladen och
+inte i stjälken. Avhärda utomhus sent i maj genom att ställa dem
+ute på dagen och ta in på natten i några dagar. Plantera ut på en
+varm, solig plats när frostrisken är över.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;</description>
+    <wysiwygeditorlocked>False</wysiwygeditorlocked>
+    <images />
     <shipping condition="">
       <option id="1" cost="15" />
     </shipping>
