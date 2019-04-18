@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2019-04-18 11:28:33" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2019-04-18 13:08:46" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -71867,6 +71867,71 @@ frostrisken är över. Vattna väl.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p
     </shipping>
     <paymentflags condition="">4164</paymentflags>
     <acceptedbidder>3</acceptedbidder>
+    <itemtype>0</itemtype>
+    <latestuploaddate>
+    </latestuploaddate>
+    <latestreservedid>
+    </latestreservedid>
+  </auction>
+  <auction>
+    <title>Färgkulla Gul 15 Frön</title>
+    <privateref>Färgkulla Gul</privateref>
+    <attributes>1</attributes>
+    <category>340973</category>
+    <duration>14</duration>
+    <specificenddate>
+    </specificenddate>
+    <restart>0</restart>
+    <startprice>10</startprice>
+    <reserveprice>
+    </reserveprice>
+    <buyitnowprice>14</buyitnowprice>
+    <description>&lt;p&gt;&lt;font size="3"&gt;&lt;b style=
+"mso-bidi-font-weight: normal"&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US"&gt;
+15 frön av Gul Färgkulla.&lt;br /&gt;&lt;/span&gt;&lt;/b&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US"&gt;Färgkulla,
+Anthemis tinctoria, får klargula blommor som liknar prästkragaroch
+ett finflikigt bladverk. Används som färgväxt. De torkade blommorna
+ger starka gula färger.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;
+&lt;font size="3"&gt;Maila gärna vid frågor.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style="FONT-FAMILY: 'Arial','sans-serif'"&gt;&lt;font size=
+"3"&gt;Odlingsråd:&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;&lt;br /&gt;
+
+&lt;font size="3"&gt;Såtid: förodla feb-april eller direktså i
+maj-september&lt;span style="COLOR: black"&gt;.&lt;/span&gt;&lt;br /&gt;
+Sådjup: 0,3 cm.&lt;/font&gt;&lt;span style="COLOR: black"&gt;&lt;br /&gt;
+&lt;font size="3"&gt;Plantavstånd: 15 cm.&lt;br /&gt;
+Radavstånd:&amp;nbsp;30 cm.&lt;br /&gt;
+Höjd: 60 cm.&lt;br /&gt;
+Blommar: juni, juli, augusti och september.&lt;br /&gt;
+Livslängd: Flerårig.&lt;br /&gt;
+&lt;br /&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;
+&lt;span style="COLOR: black"&gt;&lt;font size="3"&gt;&lt;strong&gt;Förodla:&lt;/strong&gt;
+så på ytan i februari-april i fuktig jord och täck med ett tunt
+lager jord i miniväxthus/plastpåse på ljus plats i 15-20°C tills
+fröerna har grott, ca 10-30 dagar. Plantera om när de har fyra små
+blad. Vänj plantorna gradvis vid svalare miljö under några veckor
+före utplantering när all frostrisk är
+över.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;
+&lt;span style="COLOR: black"&gt;&lt;font size="3"&gt;&lt;b style=
+"mso-bidi-font-weight: normal"&gt;Direktså:&lt;/b&gt; så på växtplatsen i
+maj-september. Håll jorden fuktig.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+    <wysiwygeditorlocked>False</wysiwygeditorlocked>
+    <images />
+    <shipping condition="">
+      <option id="1" cost="15" />
+    </shipping>
+    <paymentflags condition="">4164</paymentflags>
+    <acceptedbidder>2</acceptedbidder>
     <itemtype>0</itemtype>
     <latestuploaddate>
     </latestuploaddate>
