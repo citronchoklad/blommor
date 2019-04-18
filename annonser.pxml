@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2019-04-18 13:17:16" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2019-04-18 13:30:53" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -71904,7 +71904,7 @@ ger starka gula färger.&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;font size="3"&gt;Såtid: förodla feb-april eller direktså i
 maj-september&lt;span style="COLOR: black"&gt;.&lt;/span&gt;&lt;br /&gt;
 Sådjup: 0,3 cm.&lt;/font&gt;&lt;span style="COLOR: black"&gt;&lt;br /&gt;
-&lt;font size="3"&gt;Plantavstånd: 15 cm.&lt;br /&gt;
+&lt;font size="3"&gt;Plantavstånd:&amp;nbsp;15 cm.&lt;br /&gt;
 Radavstånd:&amp;nbsp;30 cm.&lt;br /&gt;
 Höjd: 60 cm.&lt;br /&gt;
 Blommar: juni, juli, augusti och september.&lt;br /&gt;
@@ -71914,10 +71914,9 @@ Livslängd: Flerårig.&lt;br /&gt;
 "FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;
 &lt;span style="COLOR: black"&gt;&lt;font size="3"&gt;&lt;strong&gt;Förodla:&lt;/strong&gt;
 så på ytan i februari-april i fuktig jord och täck med ett tunt
-lager jord i miniväxthus/plastpåse på ljus plats i 15-20°C tills
-fröerna har grott, ca 10-30 dagar. Plantera om när de har fyra små
-blad. Vänj plantorna gradvis vid svalare miljö under några veckor
-före utplantering när all frostrisk är
+lager jord. Fröerna gror inom 10-30 dagar. Plantera om när de har
+fyra små blad. Vänj plantorna gradvis vid svalare miljö under några
+veckor före utplantering när all frostrisk är
 över.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=
 "FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;
@@ -71926,7 +71925,10 @@ före utplantering när all frostrisk är
 maj-september. Håll jorden fuktig.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
     <wysiwygeditorlocked>False</wysiwygeditorlocked>
-    <images />
+    <images>
+      <image id="1" sequencenr="1" imagename="Färgkulla Gul a.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Färgkulla Gul a.JPG" relativepath="Färgkulla Gul a.JPG" />
+      <image id="1" sequencenr="1" imagename="Färgkulla Gul b.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Färgkulla Gul b.JPG" relativepath="Färgkulla Gul b.JPG" />
+    </images>
     <shipping condition="">
       <option id="1" cost="15" />
     </shipping>
