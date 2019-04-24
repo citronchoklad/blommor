@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2019-04-22 09:39:33" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2019-04-24 18:46:55" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -52775,7 +52775,7 @@ i april-maj direkt på växtplatsen 1,5 cm djupt, jordtemperatur
     <title>Sömntuta Strawberry Fields Gul och Orange  10 Frön</title>
     <privateref>Sömntuta Strawberry Fields Gul o Orange</privateref>
     <attributes>1</attributes>
-    <category>340973</category>
+    <category>160501</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -71921,6 +71921,62 @@ plantorna kommit upp.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
     <images>
       <image id="1" sequencenr="1" imagename="Färgkulla Gul a.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Färgkulla Gul a.JPG" relativepath="Färgkulla Gul a.JPG" />
       <image id="1" sequencenr="1" imagename="Färgkulla Gul b.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Färgkulla Gul b.JPG" relativepath="Färgkulla Gul b.JPG" />
+    </images>
+    <shipping condition="">
+      <option id="1" cost="15" />
+    </shipping>
+    <paymentflags condition="">4164</paymentflags>
+    <acceptedbidder>2</acceptedbidder>
+    <itemtype>0</itemtype>
+    <latestuploaddate>
+    </latestuploaddate>
+    <latestreservedid>
+    </latestreservedid>
+  </auction>
+  <auction>
+    <title>Vallmo, Kalifornisk Vit Sömntuta 20 Frön</title>
+    <privateref>Vallmo, Kalifornisk Vit Sömntuta</privateref>
+    <attributes>1</attributes>
+    <category>340973</category>
+    <duration>14</duration>
+    <specificenddate>
+    </specificenddate>
+    <restart>0</restart>
+    <startprice>12</startprice>
+    <reserveprice>
+    </reserveprice>
+    <buyitnowprice>15</buyitnowprice>
+    <description>&lt;p style="LINE-HEIGHT: normal; MARGIN: 0cm 0cm 12pt" class=
+"MsoNormal"&gt;&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;
+&lt;span&gt;&lt;strong&gt;20 frön av&amp;nbsp;Vit Kalifornisk Vallmo&amp;nbsp;/
+Sömntuta.&lt;br /&gt;&lt;/strong&gt;Kalifornisk Vallmo / Sömntuta, Eschscholzia
+californica, &lt;span style="COLOR: black"&gt;är en söt och lättodlad
+sommarblomma. Den har ett finflikigt bladverk. Blommorna sluter sig
+när eftermiddagen/kvällen kommer och vid regn. Trivs bäst på mager
+jord. Är ganska anspråkslös men vill ha vatten vid torka. Kan
+självså sig.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;font size="3"&gt;&lt;br /&gt;
+Maila gärna vid frågor.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="MARGIN: 0cm 0cm 10pt" class="MsoNormal"&gt;&lt;span&gt;&lt;font size=
+"3"&gt;&lt;strong&gt;Odlingsråd:&lt;/strong&gt;&lt;br /&gt;
+Såtid:&amp;nbsp;direktså april-juni.&lt;br /&gt;
+Sådjup: 0,5 cm.&lt;br /&gt;
+Plantavstånd: 15 cm.&lt;/font&gt;&lt;span style="COLOR: black"&gt;&lt;br /&gt;
+&lt;font size="3"&gt;Radavstånd:&amp;nbsp;15 cm.&lt;br /&gt;
+Höjd: 25-40 cm.&lt;br /&gt;
+Blommar: juni, juli, augusti och&amp;nbsp;september.&lt;br /&gt;
+Livslängd: Ettårig.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Direktså&lt;/strong&gt;:&amp;nbsp;på friland i april-juni. Håll
+jorden fuktig. Gror inom någon vecka. Bilderna är från blommor i
+min egen trädgård.&lt;br /&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    <wysiwygeditorlocked>False</wysiwygeditorlocked>
+    <images>
+      <image id="1" sequencenr="1" imagename="Sömntuta Vit a.jpg" path="D:\Mina Dokument\kuriosan\Blommor\Sömntuta Vit a.jpg" relativepath="Sömntuta Vit a.jpg" />
+      <image id="1" sequencenr="1" imagename="Sömntuta Vit b.jpg" path="D:\Mina Dokument\kuriosan\Blommor\Sömntuta Vit b.jpg" relativepath="Sömntuta Vit b.jpg" />
+      <image id="1" sequencenr="1" imagename="Sömntuta Vit c.jpg" path="D:\Mina Dokument\kuriosan\Blommor\Sömntuta Vit c.jpg" relativepath="Sömntuta Vit c.jpg" />
+      <image id="1" sequencenr="1" imagename="Sömntuta Vit d.jpg" path="D:\Mina Dokument\kuriosan\Blommor\Sömntuta Vit d.jpg" relativepath="Sömntuta Vit d.jpg" />
     </images>
     <shipping condition="">
       <option id="1" cost="15" />
