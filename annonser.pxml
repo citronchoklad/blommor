@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2019-12-20 13:51:08" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2019-12-20 14:24:44" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -73230,8 +73230,8 @@ själv.&lt;/span&gt;&lt;span style=
     </latestreservedid>
   </auction>
   <auction>
-    <title>Borstnejlika Mörk Röd med Rosa kant 15 frön</title>
-    <privateref>Borstnejlika Mörk Röd med Rosa kant</privateref>
+    <title>Borstnejlika Monarch Mörk Röd med Rosa kant 15 frön</title>
+    <privateref>Borstnejlika Monarch Mörk Röd Rosa kant</privateref>
     <attributes>1</attributes>
     <category>340973</category>
     <duration>14</duration>
@@ -73244,8 +73244,8 @@ själv.&lt;/span&gt;&lt;span style=
     <buyitnowprice>17</buyitnowprice>
     <description>&lt;p style="MARGIN: 0cm 0cm 10pt" class="MsoNormal"&gt;&lt;span style=
 "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;
-&lt;strong&gt;15&amp;nbsp;frön av&amp;nbsp;Mörk Röd Borstnejlika med Rosa
-kant&lt;/strong&gt;.&lt;br /&gt;
+&lt;strong&gt;15&amp;nbsp;frön av&amp;nbsp;Borstnejlika Monarch Mörk Röd&amp;nbsp;med
+Rosa kant&lt;/strong&gt;.&lt;br /&gt;
 Borstnejlika, Dianthus barbatus, är tvåårig - första året kommer
 blad och året efter blommar den. Den självsår sig, så man har den
 kvar om man en gång planterat in den i trädgården. Lättodlad
@@ -73290,19 +73290,22 @@ ljust och svalt.&amp;nbsp;Vattna riktligt.&lt;br /&gt;
 i maj-september direkt på växtplatsen i vattnad och förberedd bädd.
 Då blommar plantorna nästa år.&lt;br /&gt;
 &lt;br /&gt;&lt;/span&gt;&lt;/span&gt;Täcks inte. Fröet gror i ljus och får alltså
-inte täckas.&lt;br /&gt;&lt;/span&gt;&lt;span style=
+inte täckas.&lt;br /&gt;
+&lt;br /&gt;&lt;/span&gt;&lt;span style=
 "FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: SV"&gt;Fröerna
 är öppet pollinerade i min trädgård, så de kan avvika i utseende
 från moderplantan vad gäller färg och teckning.&lt;/span&gt; &lt;span style=
 "FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;Har fler
 plantor av borstnejlika i trädgården, vita, rosa, röda, spräckliga,
 med och utan teckning i blomman, så de kan ha korsat sig. Jag
-tycker att det är en del av charmen med att så
-själv.&lt;/span&gt;&lt;span style=
-"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;Bilderna
-är från blommor i min egen trädgård.&lt;/span&gt;&lt;/p&gt;</description>
+tycker att det är en del av charmen med att så själv.&lt;/span&gt;
+&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;
+Bilderna är från blommor i min egen trädgård.&lt;/span&gt;&lt;/p&gt;</description>
     <wysiwygeditorlocked>False</wysiwygeditorlocked>
-    <images />
+    <images>
+      <image id="1" sequencenr="1" imagename="Borstnejlika Mörk Röd med Rosa kant.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Borstnejlika Mörk Röd med Rosa kant.JPG" relativepath="Borstnejlika Mörk Röd med Rosa kant.JPG" />
+    </images>
     <shipping condition="">
       <option id="1" cost="15" />
     </shipping>
