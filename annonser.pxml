@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2019-12-20 17:57:47" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2019-12-20 19:39:50" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -73143,8 +73143,8 @@ gärna vid frågor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
     </latestreservedid>
   </auction>
   <auction>
-    <title>Borstnejlika Mörk Röd med vit kant 15 frön</title>
-    <privateref>Borstnejlika Mörk Röd med Vit kant</privateref>
+    <title>Borstnejlika Macarena Mörk Röd med vit kant 15 frön</title>
+    <privateref>Borstnejlika Macarena Mörk Röd Vit kant</privateref>
     <attributes>1</attributes>
     <category>340973</category>
     <duration>14</duration>
@@ -73157,12 +73157,12 @@ gärna vid frågor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
     <buyitnowprice>17</buyitnowprice>
     <description>&lt;p style="MARGIN: 0cm 0cm 10pt" class="MsoNormal"&gt;&lt;span style=
 "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;
-&lt;strong&gt;15&amp;nbsp;frön av&amp;nbsp;Mörk Röd Borstnejlika med Vit
+&lt;strong&gt;15&amp;nbsp;frön av&amp;nbsp;Mörk Röd Borstnejlika Macarena med Vit
 kant&lt;/strong&gt;.&lt;br /&gt;
-Borstnejlika, Dianthus barbatus, är tvåårig - första året kommer
-blad och året efter blommar den. Den självsår sig, så man har den
-kvar om man en gång planterat in den i trädgården. Lättodlad
-klassisk sommarblomma, mormorsväxt. Den svagt doftande
+Borstnejlika Macarena, Dianthus barbatus, är tvåårig - första året
+kommer blad och året efter blommar den. Den självsår sig, så man
+har den kvar om man en gång planterat in den i trädgården.
+Lättodlad klassisk sommarblomma, mormorsväxt. Den svagt doftande
 borstnejlikan pollineras både av dag- och nattfjärilar. Den bästa
 fjärilsväxten bland trädgårdens nejlikor.&lt;br /&gt;
 &lt;br /&gt;
@@ -73215,7 +73215,9 @@ själv.&lt;/span&gt;&lt;span style=
 "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;Bilderna
 är från blommor i min egen trädgård.&lt;/span&gt;&lt;/p&gt;</description>
     <wysiwygeditorlocked>False</wysiwygeditorlocked>
-    <images />
+    <images>
+      <image id="1" sequencenr="1" imagename="Borstnejlika Macarema Mörk Röd med Vit kant.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Borstnejlika Macarema Mörk Röd med Vit kant.JPG" relativepath="Borstnejlika Macarema Mörk Röd med Vit kant.JPG" />
+    </images>
     <shipping condition="">
       <option id="1" cost="15" />
     </shipping>
@@ -73228,8 +73230,8 @@ själv.&lt;/span&gt;&lt;span style=
     </latestreservedid>
   </auction>
   <auction>
-    <title>Borstnejlika Monarch Mörk Röd med Rosa kant 15 frön</title>
-    <privateref>Borstnejlika Monarch Mörk Röd Rosa kant</privateref>
+    <title>Borstnejlika Macarena Mörk Röd med Rosa kant 15 frön</title>
+    <privateref>Borstnejlika Macarena Mörk Röd Rosa kant</privateref>
     <attributes>1</attributes>
     <category>340973</category>
     <duration>14</duration>
@@ -73242,9 +73244,9 @@ själv.&lt;/span&gt;&lt;span style=
     <buyitnowprice>17</buyitnowprice>
     <description>&lt;p style="MARGIN: 0cm 0cm 10pt" class="MsoNormal"&gt;&lt;span style=
 "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;
-&lt;strong&gt;15&amp;nbsp;frön av&amp;nbsp;Borstnejlika Monarch Mörk Röd&amp;nbsp;med
-Rosa kant&lt;/strong&gt;.&lt;br /&gt;
-Borstnejlika Monarch Mörk Röd med Rosa
+&lt;strong&gt;15&amp;nbsp;frön av&amp;nbsp;Borstnejlika Macarena Mörk
+Röd&amp;nbsp;med Rosa kant&lt;/strong&gt;.&lt;br /&gt;
+Borstnejlika Macarena Mörk Röd med Rosa
 kant,&amp;nbsp;&lt;/span&gt;&lt;span style=
 "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;Dianthus
 barbatus, har väldoftande blommor i härliga färger och vackra
@@ -73317,7 +73319,7 @@ tycker att det är en del av charmen med att så själv.&lt;/span&gt;
 Bilderna är från blommor i min egen trädgård.&lt;/span&gt;&lt;/p&gt;</description>
     <wysiwygeditorlocked>False</wysiwygeditorlocked>
     <images>
-      <image id="1" sequencenr="1" imagename="Borstnejlika Monarch Mörk Röd med Rosa kant.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Borstnejlika Monarch Mörk Röd med Rosa kant.JPG" relativepath="Borstnejlika Monarch Mörk Röd med Rosa kant.JPG" />
+      <image id="1" sequencenr="1" imagename="Borstnejlika Macarena Mörk Röd med Rosa kant.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Borstnejlika Macarena Mörk Röd med Rosa kant.JPG" relativepath="Borstnejlika Macarena Mörk Röd med Rosa kant.JPG" />
     </images>
     <shipping condition="">
       <option id="1" cost="15" />
@@ -73360,7 +73362,7 @@ vid frågor.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
 förodla&amp;nbsp;februari-april eller direktså&amp;nbsp;april-juli.&lt;br /&gt;
 Sådjup: 0,5 cm.&lt;br /&gt;
 Plantavstånd: 30 cm.&lt;br /&gt;
-Radavstånd: 30cm.&lt;br /&gt;
+Radavstånd: 30 cm.&lt;br /&gt;
 Höjd: 120 cm.&lt;br /&gt;
 Blommar:&amp;nbsp;juni, juli, augusti och september.&lt;br /&gt;
 Läge: sol-halvskugga.&lt;br /&gt;
