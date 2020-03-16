@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2020-03-16 13:02:13" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2020-03-16 13:16:58" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -62636,8 +62636,8 @@ Maila gärna vid frågor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
     <paymentflags condition="">4164</paymentflags>
     <acceptedbidder>1</acceptedbidder>
     <itemtype>0</itemtype>
-    <latestuploaddate>2017-06-20 13:15:02</latestuploaddate>
-    <latestreservedid>284491265</latestreservedid>
+    <latestuploaddate></latestuploaddate>
+    <latestreservedid></latestreservedid>
   </auction>
   <auction>
     <title>Fackelranka Tresco Mix 10 Frön</title>
@@ -73920,8 +73920,8 @@ Bilderna är från blommor i min egen trädgård.&lt;/span&gt;&lt;/p&gt;</descri
     </latestreservedid>
   </auction>
   <auction>
-    <title>Akleja Lila Rosa 15 Frön</title>
-    <privateref>Akleja Lila Rosa</privateref>
+    <title>Akleja Ljus Lila Rosa 15 Frön</title>
+    <privateref>Akleja Ljus Lila Rosa</privateref>
     <attributes>1</attributes>
     <category>340973</category>
     <duration>14</duration>
@@ -73934,11 +73934,11 @@ Bilderna är från blommor i min egen trädgård.&lt;/span&gt;&lt;/p&gt;</descri
     <buyitnowprice>14</buyitnowprice>
     <description>&lt;p style="MARGIN: 0cm 0cm 10pt" class="MsoNormal"&gt;&lt;span style=
 "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;
-&lt;b style="mso-bidi-font-weight: normal"&gt;15 frön av lila Rosa
+&lt;b style="mso-bidi-font-weight: normal"&gt;15 frön av ljust Lila Rosa
 Akleja.&lt;br /&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=
 "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt"&gt;Akleja,
-Aquilegia vulgaris, får vackra&amp;nbsp;blommor i lilarosa. Ser ut som
-små älvor i skira kjolar.&lt;span style=
+Aquilegia vulgaris, får vackra&amp;nbsp;blommor i ljust lilarosa. Ser
+ut som små älvor i skira kjolar.&lt;span style=
 "mso-spacerun: yes"&gt;&amp;nbsp;&lt;/span&gt; Aklejan är perenn och är en av
 våra mest älskade gammaldags trädgårdsväxter. Trivs både i sol och
 halvskugga. De sprider sig lätt i trädgården. Blommar första gången
@@ -73996,7 +73996,9 @@ Aklejan&amp;nbsp;ger många frön så man lätt får fler plantor. Om man
 inte vill det är det bara att plocka bort fröställningarna.
 Bilderna är från blommor i min egen trädgård.&lt;/span&gt;&lt;/p&gt;</description>
     <wysiwygeditorlocked>False</wysiwygeditorlocked>
-    <images />
+    <images>
+      <image id="1" sequencenr="1" imagename="Akleja Ljus Lila Rosa .JPG" path="D:\Mina Dokument\kuriosan\Blommor\Akleja Ljus Lila Rosa .JPG" relativepath="Akleja Ljus Lila Rosa .JPG" />
+    </images>
     <shipping condition="">
       <option id="1" cost="15" />
     </shipping>
