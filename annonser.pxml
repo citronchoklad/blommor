@@ -1,4 +1,4 @@
-<prolisterarchive version="1.6.0.0" date="2020-05-20 12:58:26" auctioninterval="0">
+<prolisterarchive version="1.6.0.0" date="2020-05-21 13:22:15" auctioninterval="0">
   <auction>
     <title>
     </title>
@@ -4922,7 +4922,7 @@ svalt. Toppa plantan när den är 10 cm för buskigare växtsätt.&lt;br /&gt;
     <title>Silverbuske 1 st ca 40 cm Silverglänsande och Doftande</title>
     <privateref>Silverbuske  1 st ca 40 cm</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -26371,7 +26371,7 @@ jorden fuktig. Blommar året efter sådd.&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;</
     <title>Spirea, Häck- HäckSpirea KlaseSpirea ca 40 cm Rosa toppar</title>
     <privateref>Spirea, Häck- ca 40 cm Rosa toppar</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -26992,7 +26992,7 @@ harmonisk rabatt.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
     <title>Silverbuske 1 st ca 20 cm  Silverglänsande och Doftande</title>
     <privateref>Silverbuske 1 st ca 20 cm</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -27519,7 +27519,7 @@ sand.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;</description>
     <title>Silverbuske 1 st ca 10 cm  Silverglänsande och Doftande</title>
     <privateref>Silverbuske 1 st ca 10 cm</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -27587,7 +27587,7 @@ skenfrukt, är silverglänsande.&lt;/span&gt;&lt;/p&gt;
     <title>Spirea, Häck- HäckSpirea KlaseSpirea ca 20 cm Rosa toppar</title>
     <privateref>Spirea, Häck- ca 20 cm Rosa toppar</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -37728,7 +37728,7 @@ fuktig.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;</description>
     <title>Silverbuske 1 st ca 60 cm Silverglänsande och Doftande</title>
     <privateref>Silverbuske  1 st ca 60 cm</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -62172,7 +62172,7 @@ halvskugga.&lt;br /&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
     <title>Silverbuske 1 st ca 30 cm  Silverglänsande och Doftande</title>
     <privateref>Silverbuske 1 st ca 30 cm</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>7</duration>
     <specificenddate>
     </specificenddate>
@@ -67564,7 +67564,7 @@ Skörda efterhand som ärtorna mognar.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;</desc
     <title>Havtorn 1 st ca 40 cm Orange nyttiga bär C-vitamin rik</title>
     <privateref>Havtorn 1 st ca 40 cm</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -67652,7 +67652,7 @@ Maila gärna vid frågor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
     <title>Spirea, Häck- HäckSpirea KlaseSpirea ca 10 cm Rosa toppar</title>
     <privateref>Spirea, Häck- ca 10 cm Rosa toppar</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -67990,7 +67990,7 @@ bra att direktså på växtplatsen i maj-september. Jordtemperatur
     <title>Havtorn 1 st ca 20 cm Orange nyttiga bär C-vitamin rik</title>
     <privateref>Havtorn 1 st ca 20 cm</privateref>
     <attributes>1</attributes>
-    <category>1605</category>
+    <category>160507</category>
     <duration>14</duration>
     <specificenddate>
     </specificenddate>
@@ -74210,6 +74210,112 @@ i&amp;nbsp;ny jord.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</descriptio
     </images>
     <shipping condition="">
       <option id="1" cost="20" />
+    </shipping>
+    <paymentflags condition="">4164</paymentflags>
+    <acceptedbidder>2</acceptedbidder>
+    <itemtype>0</itemtype>
+    <latestuploaddate>
+    </latestuploaddate>
+    <latestreservedid>
+    </latestreservedid>
+  </auction>
+  <auction>
+    <title>Spirea, Häck- HäckSpirea KlaseSpirea ca 80 cm Rosa toppar</title>
+    <privateref>Spirea, Häck- ca 80 cm Rosa toppar</privateref>
+    <attributes>1</attributes>
+    <category>160507</category>
+    <duration>14</duration>
+    <specificenddate>
+    </specificenddate>
+    <restart>0</restart>
+    <startprice>60</startprice>
+    <reserveprice>
+    </reserveprice>
+    <buyitnowprice>90</buyitnowprice>
+    <description>&lt;p&gt;&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 11pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+&lt;font size="3"&gt;&lt;strong&gt;1 ca 80 cm hög planta av HäckSpirea /
+KlaseSpirea.&lt;/strong&gt;&lt;/font&gt;&lt;br /&gt;&lt;/span&gt;Häckspirea, Spirea x
+billardii, är vacker och odlas som prydnadsbuske eller som
+friväxande häck. Den är fin att sätta med i blombuketten.
+&lt;span style=
+"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px Arial; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;
+&lt;font size="3"&gt;&lt;strong&gt;Den är vindtålig och klarar zon
+1-7.&lt;/strong&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+Häckspirean är tålig och anspråkslös, men skickar rotskott. Något
+att tänka på vid val av planteringsställe. Det är en lövfällande
+buske med rosa långa blomtoppar som&amp;nbsp;blommar i maj-juli. Den
+kan bli 2 m hög och klarar kraftig beskärning.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US"&gt;
+Maila gärna vid frågor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    <wysiwygeditorlocked>False</wysiwygeditorlocked>
+    <images>
+      <image id="1" sequencenr="1" imagename="Häckspirea Rosa 1.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Häckspirea Rosa 1.JPG" relativepath="Häckspirea Rosa 1.JPG" />
+      <image id="1" sequencenr="1" imagename="Häckspirea Rosa 2.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Häckspirea Rosa 2.JPG" relativepath="Häckspirea Rosa 2.JPG" />
+      <image id="1" sequencenr="1" imagename="Häckspirea Rosa toppar 3.jpg" path="D:\Mina Dokument\kuriosan\Blommor\Häckspirea Rosa toppar 3.jpg" relativepath="Häckspirea Rosa toppar 3.jpg" />
+    </images>
+    <shipping condition="">
+      <option id="1" cost="40" />
+    </shipping>
+    <paymentflags condition="">4164</paymentflags>
+    <acceptedbidder>2</acceptedbidder>
+    <itemtype>0</itemtype>
+    <latestuploaddate>
+    </latestuploaddate>
+    <latestreservedid>
+    </latestreservedid>
+  </auction>
+  <auction>
+    <title>Spirea, Häck- HäckSpirea KlaseSpirea ca 60 cm Rosa toppar</title>
+    <privateref>Spirea, Häck- ca 60 cm Rosa toppar</privateref>
+    <attributes>1</attributes>
+    <category>160507</category>
+    <duration>14</duration>
+    <specificenddate>
+    </specificenddate>
+    <restart>0</restart>
+    <startprice>60</startprice>
+    <reserveprice>
+    </reserveprice>
+    <buyitnowprice>75</buyitnowprice>
+    <description>&lt;p&gt;&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 11pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+&lt;font size="3"&gt;&lt;strong&gt;1 ca 60 cm hög planta av HäckSpirea /
+KlaseSpirea.&lt;/strong&gt;&lt;/font&gt;&lt;br /&gt;&lt;/span&gt;Häckspirea, Spirea x
+billardii, är vacker och odlas som prydnadsbuske eller som
+friväxande häck. Den är fin att sätta med i blombuketten.
+&lt;span style=
+"TEXT-TRANSFORM: none; TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: 12px Arial; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"&gt;
+&lt;font size="3"&gt;&lt;strong&gt;Den är vindtålig och klarar zon
+1-7.&lt;/strong&gt;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+Häckspirean är tålig och anspråkslös, men skickar rotskott. Något
+att tänka på vid val av planteringsställe. Det är en lövfällande
+buske med rosa långa blomtoppar som&amp;nbsp;blommar i maj-juli. Den
+kan bli 2 m hög och klarar kraftig beskärning.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=
+"LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: SV; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"&gt;
+&lt;span style=
+"FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US"&gt;
+Maila gärna vid frågor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+    <wysiwygeditorlocked>False</wysiwygeditorlocked>
+    <images>
+      <image id="1" sequencenr="1" imagename="Häckspirea Rosa 1.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Häckspirea Rosa 1.JPG" relativepath="Häckspirea Rosa 1.JPG" />
+      <image id="1" sequencenr="1" imagename="Häckspirea Rosa 2.JPG" path="D:\Mina Dokument\kuriosan\Blommor\Häckspirea Rosa 2.JPG" relativepath="Häckspirea Rosa 2.JPG" />
+      <image id="1" sequencenr="1" imagename="Häckspirea Rosa toppar 3.jpg" path="D:\Mina Dokument\kuriosan\Blommor\Häckspirea Rosa toppar 3.jpg" relativepath="Häckspirea Rosa toppar 3.jpg" />
+    </images>
+    <shipping condition="">
+      <option id="1" cost="40" />
     </shipping>
     <paymentflags condition="">4164</paymentflags>
     <acceptedbidder>2</acceptedbidder>
